@@ -3,7 +3,7 @@ thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
 title: DJ Request Live
 date: 2019-01-03
 categories: []
-project_bg_color: ''
+project_bg_color: "#000000"
 project_fg_color: ''
 
 ---
